@@ -4,154 +4,155 @@ Channel_Num,Active,Name,RX,TX,RX_Tone,TX_Tone,TX_Power,Slot1,Slot2,Slot3,Slot4,B
 3,True,RU84 Ymittos,439.00000,431.40000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
 4,True,RU88 Ymittos,439.10000,431.50000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
 5,True,RU92 Ymittos,439.20000,431.60000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-6,True,R1 Parnitha,145.62500,145.02500,None,88.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-7,True,R3b Parnitha,145.68750,145.08750,None,94.8,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-8,True,RU2 Parnitha,434.65000,433.05000,None,77.0,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-9,True,RU86 Parnitha,439.05000,431.45000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-10,True,RU90 Parnitha,439.15000,431.55000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-11,True,RU95 Parnitha,439.27500,431.67500,None,88.5,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-12,True,R7 Penteli,145.77500,145.17500,None,88.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-13,True,RU97 Penteli,439.32500,431.72500,None,77.0,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-14,True,RU62 Kithairon,438.45000,430.85000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-15,True,RU68b Kithair,438.61250,431.01250,None,91.5,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-16,True,R6b Geraneia,145.76250,145.16250,None,None,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-17,True,R0 Lamia,145.60000,145.00000,None,82.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-18,True,R6 Nafpaktos,145.75000,145.15000,None,82.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-19,True,RU90 Mesolongi,439.15000,431.55000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-20,True,RU88 Agrinio,439.10000,431.50000,None,88.5,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
-21,True,R2 Vonitsa,145.65000,145.05000,None,88.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
-22,True,RU83 Korinthos,438.97500,431.37500,None,91.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
-23,True,RU98 Korinthos,439.35000,431.75000,None,77.0,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
-24,True,RU75 Argos,438.77500,431.17500,None,91.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
-25,True,R7b Nafplio,145.78750,145.18750,None,77.0,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
-26,True,R2 Tripoli,145.65000,145.05000,None,88.5,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
-27,True,RU84 Patra,439.00000,431.40000,None,88.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
-28,True,RU85 Patra,439.02500,431.42500,None,88.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
-29,True,R0 Taygetos,145.60000,145.00000,None,88.5,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
-30,True,R4 Sparti,145.70000,145.10000,None,67.0,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
-31,True,R5 Megalopoli,145.72500,145.12500,None,94.8,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
-32,True,R5b Kyparissia,145.73750,145.13750,None,88.5,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
-33,True,RU89 Aigina,439.12500,431.52500,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-34,True,RU70 Istiaia,438.65000,431.05000,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-35,True,R4 Tinos,145.70000,145.10000,None,77.0,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-36,True,R5b Syros,145.73750,145.13750,None,71.9,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-37,True,RU99 Paros,439.37500,431.77500,None,77.0,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-38,True,R-1 Naxos,145.57500,144.97500,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-39,True,R4b Naxos,145.71250,145.11250,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-40,True,R6 Naxos,145.75000,145.15000,None,77.0,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-41,True,RU93 Naxos,439.22500,431.62500,None,107.2,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-42,True,R0b Milos,145.61250,145.01250,None,94.8,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-43,True,R-1 Zakynthos,145.57500,144.97500,None,88.5,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-44,True,R2 Lesvos,145.65000,145.05000,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-45,True,R4 Lesvos,145.70000,145.10000,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-46,True,R6 Lesvos,145.75000,145.15000,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-47,True,RU98 Lesvos,439.35000,431.75000,None,107.2,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-48,True,R0b Kefalonia,145.61250,145.01250,None,94.8,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-49,True,R1 Lefkada,145.62500,145.02500,None,77.0,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-50,True,R1b Samos,145.63750,145.03750,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-51,True,R5 Corfu,145.72500,145.12500,None,94.8,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
-52,True,RU85 Corfu,439.02500,431.42500,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-53,True,RU99 Corfu,439.37500,431.77500,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
-54,True,R6 Chania,145.75000,145.15000,None,74.4,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
-55,True,RU74 Chania,438.75000,431.15000,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
-56,True,RU72 Rethymno,438.70000,431.10000,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
-57,True,R0 Moires,145.60000,145.00000,None,74.4,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
-58,True,RU76 Moires,438.80000,431.20000,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
-59,True,R3 Heraklion,145.67500,145.07500,None,88.5,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
-60,True,RU73 Heraklion,438.72500,431.12500,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
-61,True,R5 AgNikolaos,145.72500,145.12500,None,74.4,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
-62,True,LINK R3 Ymittos,430.92500,430.92500,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-63,True,LINK SV8M Naxos,438.92500,438.92500,None,107.2,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-64,True,LINK R5 Penteli,430.90000,430.90000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-65,True,LINK R6 Parnitha,430.97500,430.97500,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-66,True,LINK R5b Geran,438.95000,438.95000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-67,True,LINK SV8U Thira,430.12500,430.12500,None,71.9,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-68,True,LINK SV8U Argol,430.22500,430.22500,None,71.9,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-69,True,LINK SV8U Amorg,430.32500,430.32500,None,71.9,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-70,True,LINK R0 Lamia,430.87500,430.87500,None,82.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-71,True,LINK R1 Sparti,430.80000,430.80000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-72,True,LINK R3 Chania,430.82500,430.82500,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-73,True,LINK R4 Ioannina,430.95000,430.95000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-74,True,LINK R1 Psilor,438.85000,438.85000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
-75,True,B50 SV1SIX,50.04000,50.04000,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
-76,True,B144 SZ1SV,144.41250,144.41250,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
-77,True,B432 SZ1SV,432.81250,432.81250,None,None,N/T,E,M, , ,Auto,CW,False,False,Off,0.00,Off
-78,True,B70 SV1FOUR,70.04000,70.04000,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
-79,True,B50 SV3BSF,50.45000,50.45000,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
-80,True,B70 SV3BSF,70.07430,70.07430,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
-81,True,B144 SV3BSF,144.48500,144.48500,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
-82,True,B432 SV3BSF,432.45900,432.45900,None,None,N/T,E,M, , ,Auto,CW,False,False,Off,0.00,Off
-83,True,B144 SV3AQR,144.48800,144.48800,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
-84,True,B10 SV2FQN,28.24300,28.24300,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
-85,True,B144 SV2MCG,144.43000,144.43000,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
-86,True,B70 SV8FOUR,70.07300,70.07300,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
-87,True,B10 SV2HQL,28.27000,28.27000,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
-88,True,B10 SV2AHT,28.23100,28.23100,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
-89,True,B144 SV2JL,144.45000,144.45000,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
-90,True,B70 SV9FOUR,70.05500,70.05500,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
-91,True,B50 SV9SIX,50.01000,50.01000,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
-92,True,B10 SV6DBG,28.26800,28.26800,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
-93,True,B144 SV6DBG,144.42100,144.42100,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
-94,True,B50 SV2JAO,50.40600,50.40600,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
-95,True,B70 SV2JAO,70.08700,70.08700,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
-96,True,B50 SV5SIX,50.01600,50.01600,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
-97,True,B70 SV5FOUR,70.01600,70.01600,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
-98,True,RH1 DB0WV DE,29.62000,29.52000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-99,True,RH2 MB0TEN UK,29.63000,29.53000,None,82.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-100,True,RH2 CQ1ESM PT,29.63000,29.53000,None,88.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-101,True,RH3 DB0BLO DE,29.64000,29.54000,None,67.0,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-102,True,RH4 DB0TVH DE,29.65000,29.55000,None,88.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-103,True,RH4 HB9HD CH,29.65000,29.55000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-104,True,RH5 GB3WP UK,29.66000,29.56000,None,82.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-105,True,RH5 SK5RHT SE,29.66000,29.56000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-106,True,RH5 OZ0REU DK,29.66000,29.56000,None,82.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-107,True,RH5 DM0DOS DE,29.66000,29.56000,None,123.0,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-108,True,RH6 DF0MOT DE,29.67000,29.57000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-109,True,RH7 SK6RFQ SE,29.68000,29.58000,None,114.8,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-110,True,RH7 DB0PM DE,29.68000,29.58000,None,88.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-111,True,RH8 SM6VBT SE,29.69000,29.59000,None,118.8,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-112,True,RH8 DF0HHH DE,29.69000,29.59000,None,79.7,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
-113,True,ISS M1,437.80900,145.98700,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-114,True,ISS M2,437.80400,145.98800,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-115,True,ISS M3,437.80000,145.99500,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-116,True,ISS M4,437.79100,145.99300,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-117,True,ISS APRS,145.82500,145.82500,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-118,True,AO-91,145.96000,435.25000,None,67.0,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-119,True,SO-50,436.79500,145.85000,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-120,True,SO50 ARM,436.79500,145.85000,None,74.4,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-121,True,PO-101,145.90000,437.50000,None,141.3,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-122,True,CAS-3H,437.20000,144.35000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-123,True,IO-86,435.88000,145.88000,None,88.5,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-124,True,SO-124,436.88500,145.92500,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-125,True,CAS-7A,435.45500,145.95000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-126,True,CAS7A Beacon,435.43000,435.43000,None,None,N/T,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-127,True,CAS-7C,435.69000,145.90000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-128,True,CSS U/V,436.51000,145.87500,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-129,True,CSS V/U,145.98500,435.07500,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-130,True,CRAC-01,145.98000,435.90000,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-131,True,BY70-8,145.95000,435.95000,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-132,True,RS-44,435.64000,145.96500,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-133,True,RS44 Beacon,435.60500,435.60500,None,None,N/T,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-134,True,AO-123,435.40000,145.85000,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-135,True,AO123 SSDV,436.21000,436.21000,None,None,N/T,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-136,True,AO-73,145.96000,435.14000,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-137,True,RS95S,436.95000,145.92000,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-138,True,TEVEL2,436.40000,145.97000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
-139,True,AO7 Beacon,145.97000,145.97000,None,None,N/T,H,L, , ,Auto,FM,False,False,Off,0.00,Off
-140,True,2m SSB Call,144.30000,144.30000,None,None,High,I,L, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
-141,True,70cm SSB Call,432.20000,432.20000,None,None,High,I,M, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
-142,True,4m SSB Call,70.20000,70.20000,None,None,High,I,P, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
-143,True,6m SSB Call,50.11000,50.11000,None,None,High,I,O, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
-144,True,2m FM Call,145.50000,145.50000,None,None,High,I,L, , ,Auto,FM,False,False,Off,0.00,Off
-145,True,70cm FM Call,433.50000,433.50000,None,None,High,I,M, , ,Auto,FM,False,False,Off,0.00,Off
-146,True,6m FM Call,50.55000,50.55000,None,None,High,I,O, , ,Auto,FM,False,False,Off,0.00,Off
-147,True,10m FM Call,29.60000,29.60000,None,None,High,I,N, , ,Auto,FM,False,False,Off,0.00,Off
-148,True,FT8 17m,18.10000,18.10000,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-149,True,FT8 15m,21.07400,21.07400,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-150,True,FT8 12m,24.91500,24.91500,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-151,True,FT8 10m,28.07400,28.07400,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-152,True,FT8 6m,50.31300,50.31300,None,None,High,J,O, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-153,True,FT8 4m,70.10000,70.10000,None,None,High,J,P, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-154,True,FT8 2m,144.17400,144.17400,None,None,High,J,L, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-155,True,FT8 70cm,432.17400,432.17400,None,None,High,J,M, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
-156,True,APRS 2m,144.80000,144.80000,None,None,High,K,L, , ,Auto,FM,False,False,Off,0.00,Off
+6,True,RS2 Ymittos,1298.05000,1270.05000,None,94.8,High,A,Q, , ,Auto,FM,False,False,Off,0.00,Off
+7,True,R1 Parnitha,145.62500,145.02500,None,88.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+8,True,R3b Parnitha,145.68750,145.08750,None,94.8,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+9,True,RU2 Parnitha,434.65000,433.05000,None,77.0,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+10,True,RU86 Parnitha,439.05000,431.45000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+11,True,RU90 Parnitha,439.15000,431.55000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+12,True,RU95 Parnitha,439.27500,431.67500,None,88.5,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+13,True,R7 Penteli,145.77500,145.17500,None,88.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+14,True,RU97 Penteli,439.32500,431.72500,None,77.0,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+15,True,RU62 Kithairon,438.45000,430.85000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+16,True,RU68b Kithair,438.61250,431.01250,None,91.5,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+17,True,R6b Geraneia,145.76250,145.16250,None,None,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+18,True,R0 Lamia,145.60000,145.00000,None,82.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+19,True,R6 Nafpaktos,145.75000,145.15000,None,82.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+20,True,RU90 Mesolongi,439.15000,431.55000,None,94.8,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+21,True,RU88 Agrinio,439.10000,431.50000,None,88.5,High,A,M, , ,Auto,FM,False,False,Off,0.00,Off
+22,True,R2 Vonitsa,145.65000,145.05000,None,88.5,High,A,L, , ,Auto,FM,False,False,Off,0.00,Off
+23,True,RU83 Korinthos,438.97500,431.37500,None,91.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
+24,True,RU98 Korinthos,439.35000,431.75000,None,77.0,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
+25,True,RU75 Argos,438.77500,431.17500,None,91.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
+26,True,R7b Nafplio,145.78750,145.18750,None,77.0,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
+27,True,R2 Tripoli,145.65000,145.05000,None,88.5,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
+28,True,RU84 Patra,439.00000,431.40000,None,88.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
+29,True,RU85 Patra,439.02500,431.42500,None,88.5,High,B,M, , ,Auto,FM,False,False,Off,0.00,Off
+30,True,R0 Taygetos,145.60000,145.00000,None,88.5,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
+31,True,R4 Sparti,145.70000,145.10000,None,67.0,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
+32,True,R5 Megalopoli,145.72500,145.12500,None,94.8,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
+33,True,R5b Kyparissia,145.73750,145.13750,None,88.5,High,B,L, , ,Auto,FM,False,False,Off,0.00,Off
+34,True,RU89 Aigina,439.12500,431.52500,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+35,True,RU70 Istiaia,438.65000,431.05000,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+36,True,R4 Tinos,145.70000,145.10000,None,77.0,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+37,True,R5b Syros,145.73750,145.13750,None,71.9,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+38,True,RU99 Paros,439.37500,431.77500,None,77.0,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+39,True,R-1 Naxos,145.57500,144.97500,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+40,True,R4b Naxos,145.71250,145.11250,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+41,True,R6 Naxos,145.75000,145.15000,None,77.0,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+42,True,RU93 Naxos,439.22500,431.62500,None,107.2,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+43,True,R0b Milos,145.61250,145.01250,None,94.8,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+44,True,R-1 Zakynthos,145.57500,144.97500,None,88.5,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+45,True,R2 Lesvos,145.65000,145.05000,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+46,True,R4 Lesvos,145.70000,145.10000,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+47,True,R6 Lesvos,145.75000,145.15000,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+48,True,RU98 Lesvos,439.35000,431.75000,None,107.2,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+49,True,R0b Kefalonia,145.61250,145.01250,None,94.8,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+50,True,R1 Lefkada,145.62500,145.02500,None,77.0,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+51,True,R1b Samos,145.63750,145.03750,None,107.2,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+52,True,R5 Corfu,145.72500,145.12500,None,94.8,High,C,L, , ,Auto,FM,False,False,Off,0.00,Off
+53,True,RU85 Corfu,439.02500,431.42500,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+54,True,RU99 Corfu,439.37500,431.77500,None,94.8,High,C,M, , ,Auto,FM,False,False,Off,0.00,Off
+55,True,R6 Chania,145.75000,145.15000,None,74.4,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
+56,True,RU74 Chania,438.75000,431.15000,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
+57,True,RU72 Rethymno,438.70000,431.10000,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
+58,True,R0 Moires,145.60000,145.00000,None,74.4,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
+59,True,RU76 Moires,438.80000,431.20000,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
+60,True,R3 Heraklion,145.67500,145.07500,None,88.5,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
+61,True,RU73 Heraklion,438.72500,431.12500,None,74.4,High,D,M, , ,Auto,FM,False,False,Off,0.00,Off
+62,True,R5 AgNikolaos,145.72500,145.12500,None,74.4,High,D,L, , ,Auto,FM,False,False,Off,0.00,Off
+63,True,LINK R3 Ymittos,430.92500,430.92500,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+64,True,LINK SV8M Naxos,438.92500,438.92500,None,107.2,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+65,True,LINK R5 Penteli,430.90000,430.90000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+66,True,LINK R6 Parnitha,430.97500,430.97500,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+67,True,LINK R5b Geran,438.95000,438.95000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+68,True,LINK SV8U Thira,430.12500,430.12500,None,71.9,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+69,True,LINK SV8U Argol,430.22500,430.22500,None,71.9,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+70,True,LINK SV8U Amorg,430.32500,430.32500,None,71.9,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+71,True,LINK R0 Lamia,430.87500,430.87500,None,82.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+72,True,LINK R1 Sparti,430.80000,430.80000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+73,True,LINK R3 Chania,430.82500,430.82500,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+74,True,LINK R4 Ioannina,430.95000,430.95000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+75,True,LINK R1 Psilor,438.85000,438.85000,None,88.5,High,F,M, , ,Auto,FM,False,False,Off,0.00,Off
+76,True,B50 SV1SIX,50.04000,50.04000,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
+77,True,B144 SZ1SV,144.41250,144.41250,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
+78,True,B432 SZ1SV,432.81250,432.81250,None,None,N/T,E,M, , ,Auto,CW,False,False,Off,0.00,Off
+79,True,B70 SV1FOUR,70.04000,70.04000,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
+80,True,B50 SV3BSF,50.45000,50.45000,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
+81,True,B70 SV3BSF,70.07430,70.07430,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
+82,True,B144 SV3BSF,144.48500,144.48500,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
+83,True,B432 SV3BSF,432.45900,432.45900,None,None,N/T,E,M, , ,Auto,CW,False,False,Off,0.00,Off
+84,True,B144 SV3AQR,144.48800,144.48800,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
+85,True,B10 SV2FQN,28.24300,28.24300,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
+86,True,B144 SV2MCG,144.43000,144.43000,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
+87,True,B70 SV8FOUR,70.07300,70.07300,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
+88,True,B10 SV2HQL,28.27000,28.27000,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
+89,True,B10 SV2AHT,28.23100,28.23100,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
+90,True,B144 SV2JL,144.45000,144.45000,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
+91,True,B70 SV9FOUR,70.05500,70.05500,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
+92,True,B50 SV9SIX,50.01000,50.01000,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
+93,True,B10 SV6DBG,28.26800,28.26800,None,None,N/T,E,N, , ,Auto,CW,False,False,Off,0.00,Off
+94,True,B144 SV6DBG,144.42100,144.42100,None,None,N/T,E,L, , ,Auto,CW,False,False,Off,0.00,Off
+95,True,B50 SV2JAO,50.40600,50.40600,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
+96,True,B70 SV2JAO,70.08700,70.08700,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
+97,True,B50 SV5SIX,50.01600,50.01600,None,None,N/T,E,O, , ,Auto,CW,False,False,Off,0.00,Off
+98,True,B70 SV5FOUR,70.01600,70.01600,None,None,N/T,E,P, , ,Auto,CW,False,False,Off,0.00,Off
+99,True,RH1 DB0WV DE,29.62000,29.52000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+100,True,RH2 MB0TEN UK,29.63000,29.53000,None,82.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+101,True,RH2 CQ1ESM PT,29.63000,29.53000,None,88.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+102,True,RH3 DB0BLO DE,29.64000,29.54000,None,67.0,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+103,True,RH4 DB0TVH DE,29.65000,29.55000,None,88.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+104,True,RH4 HB9HD CH,29.65000,29.55000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+105,True,RH5 GB3WP UK,29.66000,29.56000,None,82.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+106,True,RH5 SK5RHT SE,29.66000,29.56000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+107,True,RH5 OZ0REU DK,29.66000,29.56000,None,82.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+108,True,RH5 DM0DOS DE,29.66000,29.56000,None,123.0,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+109,True,RH6 DF0MOT DE,29.67000,29.57000,None,None,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+110,True,RH7 SK6RFQ SE,29.68000,29.58000,None,114.8,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+111,True,RH7 DB0PM DE,29.68000,29.58000,None,88.5,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+112,True,RH8 SM6VBT SE,29.69000,29.59000,None,118.8,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+113,True,RH8 DF0HHH DE,29.69000,29.59000,None,79.7,High,G,N, , ,Auto,FM,False,False,Off,0.00,Off
+114,True,ISS M1,437.80900,145.98700,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+115,True,ISS M2,437.80400,145.98800,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+116,True,ISS M3,437.80000,145.99500,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+117,True,ISS M4,437.79100,145.99300,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+118,True,ISS APRS,145.82500,145.82500,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+119,True,AO-91,145.96000,435.25000,None,67.0,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+120,True,SO-50,436.79500,145.85000,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+121,True,SO50 ARM,436.79500,145.85000,None,74.4,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+122,True,PO-101,145.90000,437.50000,None,141.3,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+123,True,CAS-3H,437.20000,144.35000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+124,True,IO-86,435.88000,145.88000,None,88.5,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+125,True,SO-124,436.88500,145.92500,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+126,True,CAS-7A,435.45500,145.95000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+127,True,CAS7A Beacon,435.43000,435.43000,None,None,N/T,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+128,True,CAS-7C,435.69000,145.90000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+129,True,CSS U/V,436.51000,145.87500,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+130,True,CSS V/U,145.98500,435.07500,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+131,True,CRAC-01,145.98000,435.90000,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+132,True,BY70-8,145.95000,435.95000,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+133,True,RS-44,435.64000,145.96500,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+134,True,RS44 Beacon,435.60500,435.60500,None,None,N/T,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+135,True,AO-123,435.40000,145.85000,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+136,True,AO123 SSDV,436.21000,436.21000,None,None,N/T,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+137,True,AO-73,145.96000,435.14000,None,None,High,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+138,True,RS95S,436.95000,145.92000,None,67.0,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+139,True,TEVEL2,436.40000,145.97000,None,None,High,H,M, , ,Auto,FM,False,False,Off,0.00,Off
+140,True,AO7 Beacon,145.97000,145.97000,None,None,N/T,H,L, , ,Auto,FM,False,False,Off,0.00,Off
+141,True,2m SSB Call,144.30000,144.30000,None,None,High,I,L, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
+142,True,70cm SSB Call,432.20000,432.20000,None,None,High,I,M, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
+143,True,4m SSB Call,70.20000,70.20000,None,None,High,I,P, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
+144,True,6m SSB Call,50.11000,50.11000,None,None,High,I,O, , ,Tuner 3KHz,DSB,False,False,Off,0.00,Off
+145,True,2m FM Call,145.50000,145.50000,None,None,High,I,L, , ,Auto,FM,False,False,Off,0.00,Off
+146,True,70cm FM Call,433.50000,433.50000,None,None,High,I,M, , ,Auto,FM,False,False,Off,0.00,Off
+147,True,6m FM Call,50.55000,50.55000,None,None,High,I,O, , ,Auto,FM,False,False,Off,0.00,Off
+148,True,10m FM Call,29.60000,29.60000,None,None,High,I,N, , ,Auto,FM,False,False,Off,0.00,Off
+149,True,FT8 17m,18.10000,18.10000,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+150,True,FT8 15m,21.07400,21.07400,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+151,True,FT8 12m,24.91500,24.91500,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+152,True,FT8 10m,28.07400,28.07400,None,None,High,J,N, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+153,True,FT8 6m,50.31300,50.31300,None,None,High,J,O, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+154,True,FT8 4m,70.10000,70.10000,None,None,High,J,P, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+155,True,FT8 2m,144.17400,144.17400,None,None,High,J,L, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+156,True,FT8 70cm,432.17400,432.17400,None,None,High,J,M, , ,Tuner 3KHz,USB,False,False,Off,0.00,Off
+157,True,APRS 2m,144.80000,144.80000,None,None,High,K,L, , ,Auto,FM,False,False,Off,0.00,Off
