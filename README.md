@@ -1,76 +1,125 @@
-# nicFW880 Greek Amateur Radio Frequency List
+# 🇬🇷 nicFW880 Greek Amateur Radio Frequency List
 
-Clean amateur-radio channel list for **nicFW880 v5 BETA 7** / Radtel RT-880 family.
+A clean, practical amateur-radio memory set for **nicFW880 v5 BETA 7** and the **Radtel RT-880 / iRadio 880 family**, built around operation from **Piraeus / Attica**.
 
-## Files
+The aim is simple: keep the memories that are actually useful to a Greek radio amateur, remove non-amateur clutter, and put repeaters in an order that makes sense on the radio rather than in a random database dump.
 
-- `channels.csv` — ready-to-import channel list.
-- `group.csv` — group definitions used by `channels.csv`.
+## 📦 Files
 
-## Channel order
+| File | Purpose |
+|---|---|
+| [`channels.csv`](channels.csv) | Main nicFW880 channel list — **157 memories** |
+| [`group.csv`](group.csv) | Group definitions used by the channel list |
 
-1. SV1 repeaters — ordered approximately by distance from Piraeus
-2. SV3 repeaters — ordered approximately by distance from Piraeus
-3. SV8 repeaters — ordered approximately by distance from Piraeus
-4. SV9 repeaters — ordered approximately by distance from Piraeus
-5. UHF cross-band links
-6. Greek beacons — nationwide, nearest first
-7. Selected active European 29 MHz repeaters
-8. Amateur satellites
-9. Calling, FT8 and APRS channels
+## 🗺️ Memory order
 
-Only amateur-radio frequencies are retained. PMR/FRS/GMRS, CB, airband, public-service,
-military/SATCOM and other non-amateur entries from the original 999-channel file were removed.
+The list is arranged deliberately:
 
-Digital-only DMR/D-STAR repeaters are not included because this list is intended for direct
-analogue operation with nicFW880.
+1. **SV1 repeaters** — approximately nearest to Piraeus first
+2. **SV3 repeaters**
+3. **SV8 repeaters**
+4. **SV9 repeaters**
+5. **UHF repeater links / cross-links**
+6. **Greek amateur beacons** — nationwide, approximately nearest to Piraeus first
+7. **Selected European 29 MHz / 10 m repeaters** useful during Sporadic-E and other openings
+8. **Amateur satellites**
+9. **Calling, FT8 and APRS memories**
 
-## Important UHF links
+The main repeater memories use short radio-friendly names such as `R2b Ymittos`, `RU1 Ymittos`, `R4b Naxos` and `RS2 Ymittos`.
 
-- `LINK SV8M Naxos` — **438.925 MHz**, CTCSS **107.2 Hz** (Ymittos link to SV8M/R4b Naxos)
-- `LINK SV8U Argol` — **430.225 MHz**, CTCSS **71.9 Hz**
-- `LINK SV8U Thira` — **430.125 MHz**, CTCSS **71.9 Hz**
-- `LINK SV8U Amorg` — **430.325 MHz**, CTCSS **71.9 Hz**
-- `LINK R0 Lamia` — **430.875 MHz**, CTCSS **82.5 Hz**
+## 📡 Bands included
 
-The current RAAG UHF link set is also included.
+- 10 m
+- 6 m
+- 4 m
+- 2 m
+- 70 cm
+- **23 cm / 1.2 GHz**
+- Amateur satellite uplinks/downlinks that fit the radio
+- Greek amateur beacon frequencies
 
-## 29 MHz / 10 m
+### 23 cm / SHF
 
-The old Greek SV1K 29.660 MHz entry was not included because current repeater listings mark it
-off-air. The list instead contains selected currently operational European repeaters on RH1-RH8
-(29.620-29.690 MHz), useful during Sporadic-E and other 10 m openings.
+The list includes the analogue **SV1W / RS2 Ymittos** repeater:
 
-## Beacons
+- **RX:** 1298.050 MHz
+- **TX:** 1270.050 MHz
+- **CTCSS:** 94.8 Hz
 
-Greek beacons are programmed receive-only (`TX_Power=N/T`) to prevent accidental transmission.
-They are ordered approximately by great-circle distance from Piraeus.
+nicFW880 BETA 7 provides radio-side **Band Plan editing**. Actual usable RF coverage still depends on the particular radio, hardware and calibration, so users should verify operation on their own unit before transmitting.
 
-## SHF / 23 cm
+## 🔗 Important UHF links
 
-No 23 cm repeater memory is included. The RT-880 receiver covers 18-620 MHz and 840-1000 MHz,
-so the Greek 1.2 GHz / 23 cm repeaters (for example 1298 MHz) are outside the radio's RF range.
-Adding them to the codeplug would therefore create unusable memories.
+The long-distance UHF links were intentionally retained instead of being removed by the SV1/SV3/SV8/SV9 geographic filter.
 
-## Sources / verification
+| Memory | Frequency | CTCSS |
+|---|---:|---:|
+| `LINK SV8M Naxos` | **438.925 MHz** | **107.2 Hz** |
+| `LINK SV8U Thira` | 430.125 MHz | 71.9 Hz |
+| `LINK SV8U Argol` | 430.225 MHz | 71.9 Hz |
+| `LINK SV8U Amorg` | 430.325 MHz | 71.9 Hz |
+| `LINK R0 Lamia` | 430.875 MHz | 82.5 Hz |
+| `LINK R1 Sparti` | 430.800 MHz | 88.5 Hz |
+| `LINK R3 Chania` | 430.825 MHz | 88.5 Hz |
 
-Checked 2026-09-06 against:
+The Naxos link is deliberately present as a first-class memory rather than being hidden inside a repeater note.
 
-- Radio Amateur Association of Greece (RAAG) repeater/link tables
-- RepeaterBook Greece and European 10 m listings
-- ERDYP repeater/beacon information
-- G0LGS IARU Region 1 beacon lists
-- UK Repeater 10 m list
-- Dodecanese Radio Amateur Association beacon information
-- Existing user channel list, with duplicates and invalid/non-amateur entries removed
+## 🌍 29 MHz / 10 m repeaters
 
-`R0b Milos` is retained as an on-air override based on a recent successful local contact even
-though some online directories still show an older off-air status.
+Selected European **RH1–RH8** FM repeaters are included between **29.620 and 29.690 MHz**, with the usual -100 kHz inputs. These are intended for the days when 10 m opens and repeaters hundreds or thousands of kilometres away suddenly become workable.
 
-## Notes
+The old Greek **SV1K / 29.660 MHz** memory is currently omitted because current public repeater listings mark it off-air.
 
-Repeater receive tone decoding is left open (`RX_Tone=None`) while the required access tone is
-stored in `TX_Tone`. This avoids losing a repeater whose output does not transmit CTCSS while
-still keying it correctly.
+## 🛰️ Satellites
 
-Pure beacon channels and satellite beacon/SSDV receive channels are set to `N/T`.
+The satellite section contains practical memories for satellites and spacecraft commonly used or monitored by radio amateurs, including ISS, SO-50, AO-91, PO-101, CAS-series satellites, RS-44, AO-123, AO-73 and related beacon channels.
+
+Satellite beacon/telemetry-only memories are set **N/T** where appropriate to avoid accidental transmission.
+
+## 📻 Beacons
+
+Greek amateur beacons are retained **nationwide**, regardless of SV region, and are placed approximately by distance from Piraeus. Beacon memories are programmed receive-only (`TX_Power=N/T`).
+
+## 🧹 What was removed
+
+The source channel dump contained many entries that do not belong in a Greek amateur-radio memory list. This version removes:
+
+- PMR / FRS / GMRS
+- CB
+- airband
+- public-service and commercial frequencies
+- military / non-amateur SATCOM
+- duplicate or obviously broken entries
+- frequencies outside the intended amateur allocations
+
+Digital-only DMR/D-STAR repeaters are not the focus of this list; it is primarily an **analogue nicFW880 operating list**.
+
+## ⚙️ nicFW880 notes
+
+- Built for **nicFW880 v5 BETA 7** CSV structure.
+- `RX_Tone=None` is normally left open on analogue repeaters while the required access tone is stored in `TX_Tone`.
+- Beacon and telemetry-only memories use `N/T` where appropriate.
+- `group.csv` separates geographic repeater groups, links, beacons, 10 m, satellites and operating channels.
+
+## 🔎 Sources and verification
+
+Last reviewed: **2026-09-07**.
+
+Useful sources used to cross-check the list include:
+
+- [Radio Amateur Association of Greece (RAAG / ΕΕΡ)](https://raag.org/)
+- [RepeaterBook — Greece](https://www.repeaterbook.com/row_repeaters/index2.php?state_id=GR)
+- [Σύλλογος Ελλήνων Ραδιοερασιτεχνών — HAG](https://hag.gr/portal/)
+- IARU Region 1 beacon information and national beacon lists
+- Published Greek repeater/link information
+- Real-world operating reports where current directory data conflicts with observed operation
+
+`R0b Milos` is intentionally retained because it has been successfully worked recently from Piraeus despite older directory information showing a different status.
+
+## ⚠️ Operating note
+
+Repeater status, tones and links can change without notice. Always comply with the current Greek amateur-radio band plan and licence conditions, and verify questionable entries before transmitting.
+
+---
+
+**73 de SV1EEX**
